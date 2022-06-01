@@ -1,0 +1,5 @@
+2022-06-01 15:58:56,322 INFO [main] c.n.c.LoggerTest [StartupInfoLogger.java:55] Starting LoggerTest using Java 17.0.2 on DESKTOP-39JTUJS with PID 18988 (started by 86199 in F:\Fang_nowcoder_project\community)
+2022-06-01 15:58:56,324 INFO [main] c.n.c.LoggerTest [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-01 15:58:57,675 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-06-01 15:58:57,985 INFO [main] c.n.c.LoggerTest [StartupInfoLogger.java:61] Started LoggerTest in 2.025 seconds (JVM running for 2.846)
+2022-06-01 15:58:58,334 INFO [main] c.n.c.LoggerTest [LoggerTest.java:20] info log

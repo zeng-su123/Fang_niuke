@@ -1,0 +1,9 @@
+2022-06-01 15:35:14.553  INFO 20360 --- [main] com.nowcoder.community.LoggerTest        : Starting LoggerTest using Java 17.0.2 on DESKTOP-39JTUJS with PID 20360 (started by 86199 in F:\Fang_nowcoder_project\community)
+2022-06-01 15:35:14.555 DEBUG 20360 --- [main] com.nowcoder.community.LoggerTest        : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-01 15:35:14.555  INFO 20360 --- [main] com.nowcoder.community.LoggerTest        : No active profile set, falling back to 1 default profile: "default"
+2022-06-01 15:35:16.590  INFO 20360 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-06-01 15:35:16.964  INFO 20360 --- [main] com.nowcoder.community.LoggerTest        : Started LoggerTest in 2.745 seconds (JVM running for 3.594)
+2022-06-01 15:35:17.373 DEBUG 20360 --- [main] com.nowcoder.community.LoggerTest        : debug
+2022-06-01 15:35:17.374  INFO 20360 --- [main] com.nowcoder.community.LoggerTest        : info log
+2022-06-01 15:35:17.374  WARN 20360 --- [main] com.nowcoder.community.LoggerTest        : warn log
+2022-06-01 15:35:17.374 ERROR 20360 --- [main] com.nowcoder.community.LoggerTest        : error log
